@@ -1,8 +1,8 @@
 'use strict';
 
-var title = 'My Event Title';
-var loc = 'My Event Location';
-var notes = 'My interesting Event notes.';
+var title = 'Opera Festival Tenerife';
+var loc = 'Auditorio de Tenerife';
+var notes = 'Requiem de Verdi';
 var startDate = new Date();
 var endDate = new Date();
 var calendarName = 'MyCal';
